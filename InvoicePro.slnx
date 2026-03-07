@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/InvoicePro.Core/InvoicePro.Core.csproj" />
+    <Project Path="src/InvoicePro.Data/InvoicePro.Data.csproj" />
+    <Project Path="src/InvoicePro.Services/InvoicePro.Services.csproj" />
+    <Project Path="src/InvoicePro.Web/InvoicePro.Web.csproj" />
+  </Folder>
+</Solution>
