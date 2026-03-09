@@ -52,6 +52,11 @@ builder.Services.AddScoped<IPdfService, PdfService>();
 QuestPDF.Settings.License = LicenseType.Community;
 
 var app = builder.Build();
+var cultureInfo = new System.Globalization.CultureInfo("pt-BR");
+cultureInfo.NumberFormat.NumberDecimalSeparator = ".";
+cultureInfo.NumberFormat.CurrencyDecimalSeparator = ".";
+System.Globalization.CultureInfo.DefaultThreadCurrentCulture = cultureInfo;
+System.Globalization.CultureInfo.DefaultThreadCurrentUICulture = cultureInfo;
 
 if (!app.Environment.IsDevelopment())
 {
