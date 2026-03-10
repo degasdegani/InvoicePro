@@ -123,5 +123,5 @@ AspNetUsers (Identity)
 
 **Eduardo Degani**  
 Desenvolvedor .NET em transição de carreira  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Degani-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Degani-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eduardo-degani/)
 [![GitHub](https://img.shields.io/badge/GitHub-degasdegani-181717?style=flat-square&logo=github)](https://github.com/degasdegani)
