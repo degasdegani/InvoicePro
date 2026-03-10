@@ -34,7 +34,7 @@ Sistema web de gerenciamento de orçamentos e faturas desenvolvido com **ASP.NET
 ### Orçamentos
 ![Orçamentos](docs/images/03-orcamentos.png)
 
-### Novo Orçamento
+### Visualização do Orçamento
 ![Novo Orçamento](docs/images/04-novo-orcamento.png)
 
 ### Faturas
